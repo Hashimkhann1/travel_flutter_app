@@ -93,7 +93,7 @@ class _OnBoardingState extends State<OnBoarding> {
                               borderRadius: BorderRadius.circular(8),
                               color: index == indexDots
                                   ? ColorResources.lightBlue
-                                  : ColorResources.grayCoor.withOpacity(0.5)),
+                                  : ColorResources.grayColor.withOpacity(0.5)),
                         );
                       }),
                     )
